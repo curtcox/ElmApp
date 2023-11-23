@@ -1,0 +1,22 @@
+# Dependency directories
+elm-stuff/
+node_modules/
+
+# Compiled output
+dist/
+build/
+
+# Environment configuration
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# Nix
+result
