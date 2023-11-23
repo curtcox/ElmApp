@@ -7,3 +7,5 @@ Just edit the files in ```src``` and the Webview pane will update accordingly.
 For more on Elm, visit [elm-lang.org](https://elm-lang.org/)
 
 The Elm compiler is released under the [BSD 3-Clause License](https://github.com/elm/compiler/blob/master/LICENSE) 
+
+[![Run on Repl.it](https://replit.com/badge/github/curtcox/ElmApp)](https://replit.com/new/github/curtcox/ElmApp)
