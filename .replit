@@ -1,1 +1,8 @@
 run="elm-live src/Main.elm -h 0.0.0.0 --pushstate"
+
+[deployment]
+deploymentTarget = "static"
+publicDir = "dist"
+buildCommand = "npm run build" # Use the build script from package.json
+
+run="npm start" # or whatever command you use to start elm-live for development
